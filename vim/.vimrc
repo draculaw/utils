@@ -13,7 +13,7 @@ set hlsearch
 set ignorecase
 filetype plugin indent on
 filetype plugin on
-colorscheme desert
+colorscheme monokai
 set directory=~/tmp
 
 map <space> <C-F>
